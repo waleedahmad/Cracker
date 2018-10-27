@@ -1,6 +1,6 @@
 # Cracker
 
-A simple app to for plotting real time coords on Google maps in an Ionic app. 
+A simple Ionic app to for plotting real time coords on Google maps.
 
 ### Setup Instructions
 ```
