@@ -1,0 +1,7 @@
+{
+  "name": "CarTrek",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
